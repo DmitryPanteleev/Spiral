@@ -1,4 +1,4 @@
-public class Main {
+public class Spiral {
 
     static int[][] mass;
     static int number = 0;
